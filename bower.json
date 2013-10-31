@@ -1,0 +1,18 @@
+{
+  "name": "hopscotch",
+  "version": "0.1.2",
+  "homepage": "https://github.com/linkedin/hopscotch",
+  "authors": [
+    "\"Gordon Koo\""
+  ],
+  "description": "A framework to make it easy for developers to add product tours to their pages.",
+  "main": "js/hopscotch-0.1.2.js",
+  "license": "Apache 2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
